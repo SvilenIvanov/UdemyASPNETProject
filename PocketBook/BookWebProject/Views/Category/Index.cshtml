@@ -18,14 +18,14 @@
     </thead>
 
     <tbody>
-        @foreach(var ieCategory in Model){
+        @foreach(Category ieCategory in Model){
             <tr>
                 <td width="50%">
-                    
+                    @ieCategory.Name
 
                 </td>
                 <td width="30%">
-                    
+                    @ieCategory.DisplayOrder
                 </td>
             </tr>
 
