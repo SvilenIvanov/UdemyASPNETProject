@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wSMr8V2KVYaVwzdCz79cdV8DEkfUW4+CQtxkx0ugha0=",
+  "Hash": "bHDsizMLD2vgGRAQ9zpxOegpT9LML26hSLheeDyGUjk=",
   "Source": "BookWebProject",
   "BasePath": "_content/BookWebProject",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\UdemyProject\\PocketBook\\BookWebProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookWebProject.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Projects\\UdemyProject\\PocketBook\\BookWebProject\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\UdemyProject\\PocketBook\\BookWebProject\\wwwroot\\",
+      "BasePath": "_content/BookWebProject",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Projects\\UdemyProject\\PocketBook\\BookWebProject\\wwwroot\\css\\site.css",
