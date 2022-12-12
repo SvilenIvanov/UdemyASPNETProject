@@ -17,5 +17,11 @@ namespace BookWebProject.Controllers {
 
             return View(ieCategories);
         }
+
+        //GET
+        public IActionResult Create() {
+
+            return View();
+        }
     }
 }
